@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultExportProjectFile
+  DestinationType="ManualSelection"
+  SourceProjectPath="C:\Users\jharkins\Documents\MySAVEDProjects\CaptureIntegrationNEWER\CaptureIntegration.flprj"
+  DestinationName="CaptureIntegration1"
+  DestinationPath="C:\Users\jharkins\Documents\My Project Exports\"
+  ExportType="Files"
+  TargetConvertVariables="false"
+  TargetConvertSnippets="false">
+  <SelectedContentFiles>
+    <Url
+      Source="Resources" />
+    <Url
+      Source="Resources/Images" />
+    <Url
+      Source="Resources/Images/CustomANDprintMediums" />
+    <Url
+      Source="Resources/Images/CustomANDprintMediums/CustomANDprint1.jpg" />
+    <Url
+      Source="Resources/Images/CustomANDprintMediums/CustomANDprint2.png" />
+    <Url
+      Source="Resources/Images/CustomANDprintMediums/CustomANDprint3.gif" />
+    <Url
+      Source="Resources/Images/CustomANDprintMediums/CustomANDprint4.tif" />
+    <Url
+      Source="Resources/Images/CustomANDprintMediums/printJPEG.bmp" />
+    <Url
+      Source="Resources/Images/CustomJPEGS" />
+    <Url
+      Source="Resources/Images/CustomJPEGS/customJPEGs.bmp" />
+    <Url
+      Source="Resources/Images/CustomJPEGS/customJPEGs1.jpg" />
+    <Url
+      Source="Resources/Images/CustomJPEGS/customJPEGs2.png" />
+    <Url
+      Source="Resources/Images/CustomJPEGS/customJPEGs3.gif" />
+    <Url
+      Source="Resources/Images/CustomJPEGS/customJPEGs4.tif" />
+    <Url
+      Source="Resources/Images/CustomMedium" />
+    <Url
+      Source="Resources/Images/CustomMedium/CustomMedium.bmp" />
+    <Url
+      Source="Resources/Images/CustomMedium/CustomMedium2.jpg" />
+    <Url
+      Source="Resources/Images/CustomMedium/CustomMedium3.png" />
+    <Url
+      Source="Resources/Images/CustomMedium/CustomMedium4.gif" />
+    <Url
+      Source="Resources/Images/CustomMedium/CustomMedium5.tif" />
+    <Url
+      Source="Resources/Images/EditedOutside" />
+    <Url
+      Source="Resources/Images/EditedOutside/MoviePoster10.bmp" />
+    <Url
+      Source="Resources/Images/EditedOutside/MoviePoster11.jpg" />
+    <Url
+      Source="Resources/Images/EditedOutside/MoviePoster12.png" />
+    <Url
+      Source="Resources/Images/EditedOutside/MoviePoster13.gif" />
+    <Url
+      Source="Resources/Images/EditedOutside/MoviePoster14.tif" />
+    <Url
+      Source="Resources/Images/MediaQuery" />
+    <Url
+      Source="Resources/Images/MediaQuery/clean.bmp" />
+    <Url
+      Source="Resources/Images/MediaQuery/MediaQ1.bmp" />
+    <Url
+      Source="Resources/Images/MediaQuery/MediaQ2.jpg" />
+    <Url
+      Source="Resources/Images/MediaQuery/MediaQ3.png" />
+    <Url
+      Source="Resources/Images/MediaQuery/MediaQ4.gif" />
+    <Url
+      Source="Resources/Images/MediaQuery/MediaQ5.tif" />
+    <Url
+      Source="Resources/Images/NoProps" />
+    <Url
+      Source="Resources/Images/NoProps/dooku_3294e48f.bmp" />
+    <Url
+      Source="Resources/Images/NoProps/dooku_3294e48f.gif" />
+    <Url
+      Source="Resources/Images/NoProps/dooku_3294e48f.jpeg" />
+    <Url
+      Source="Resources/Images/NoProps/dooku_3294e48f.png" />
+    <Url
+      Source="Resources/Images/NoProps/dooku_3294e48f.tif" />
+    <Url
+      Source="Resources/Images/PrintJPEGS" />
+    <Url
+      Source="Resources/Images/PrintJPEGS/printPNG1.bmp" />
+    <Url
+      Source="Resources/Images/PrintJPEGS/printPNG2.jpg" />
+    <Url
+      Source="Resources/Images/PrintJPEGS/printPNG3.png" />
+    <Url
+      Source="Resources/Images/PrintJPEGS/printPNG4.tif" />
+    <Url
+      Source="Resources/Images/PrintJPEGS/printPNG5.gif" />
+    <Url
+      Source="Resources/Images/PrintMedium" />
+    <Url
+      Source="Resources/Images/PrintMedium/CustomANDprint.bmp" />
+    <Url
+      Source="Resources/Images/PrintMedium/PrintMedium.tif" />
+    <Url
+      Source="Resources/Images/PrintMedium/PrintMedium1.bmp" />
+    <Url
+      Source="Resources/Images/PrintMedium/PrintMedium2.jpg" />
+    <Url
+      Source="Resources/Images/PrintMedium/PrintMedium3.png" />
+    <Url
+      Source="Resources/Images/PrintMedium/PrintMedium4.gif" />
+    <Url
+      Source="Resources/Images/Capture.bmp" />
+    <Url
+      Source="Resources/Images/Capture.gif" />
+    <Url
+      Source="Resources/Images/Capture.jpg" />
+    <Url
+      Source="Resources/Images/Capture.png" />
+    <Url
+      Source="Resources/Images/Capture.tif" />
+    <Url
+      Source="Resources/Images/Capture1.bmp" />
+    <Url
+      Source="Resources/Images/Capture1.gif" />
+    <Url
+      Source="Resources/Images/Capture1.jpg" />
+    <Url
+      Source="Resources/Images/Capture1.png" />
+    <Url
+      Source="Resources/Images/Capture1.tif" />
+    <Url
+      Source="Resources/Images/Capture2.bmp" />
+    <Url
+      Source="Resources/Images/fromJH06.bmp" />
+    <Url
+      Source="Resources/Images/image.png" />
+    <Url
+      Source="Resources/Images/MoviePoster.bmp" />
+    <Url
+      Source="Resources/Images/MoviePoster1.jpg" />
+    <Url
+      Source="Resources/Images/MoviePoster2.png" />
+    <Url
+      Source="Resources/Images/MoviePoster3.gif" />
+    <Url
+      Source="Resources/Images/MoviePoster4.tif" />
+    <Url
+      Source="Resources/Images/MoviePoster5.bmp" />
+    <Url
+      Source="Resources/Images/MoviePoster6.jpg" />
+    <Url
+      Source="Resources/Images/MoviePoster7.png" />
+    <Url
+      Source="Resources/Images/MoviePoster8.gif" />
+    <Url
+      Source="Resources/Images/MoviePoster9.tif" />
+    <Url
+      Source="Resources/Images/One.jpg" />
+    <Url
+      Source="Resources/PageLayouts" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="Resources/Stylesheets" />
+    <Url
+      Source="Resources/Stylesheets/Modern.css" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="Resources/TableStyles" />
+    <Url
+      Source="Resources/TableStyles/Basic.css" />
+    <Url
+      Source="Topic.htm" />
+  </SelectedContentFiles>
+  <SelectedProjectFiles>
+    <Url
+      Source="Advanced" />
+    <Url
+      Source="Advanced/Auto Index Sets" />
+    <Url
+      Source="Advanced/Auto Index Sets/AutoIndexSet.flaix" />
+    <Url
+      Source="Advanced/Auto Suggestion Sets" />
+    <Url
+      Source="Advanced/Auto Suggestion Sets/AutoSuggestionSet.fltbx" />
+    <Url
+      Source="Advanced/Browse Sequences" />
+    <Url
+      Source="Advanced/Browse Sequences/BrowseSequence.flbrs" />
+    <Url
+      Source="Advanced/CSH" />
+    <Url
+      Source="Advanced/CSH/AliasFile.flali" />
+    <Url
+      Source="Advanced/CSH/HeaderFile.h" />
+    <Url
+      Source="Advanced/File Tags" />
+    <Url
+      Source="Advanced/File Tags/FileTagSetAuthor.flfts" />
+    <Url
+      Source="Advanced/File Tags/FileTagSetStatus.flfts" />
+    <Url
+      Source="Advanced/Index Link Sets" />
+    <Url
+      Source="Advanced/Index Link Sets/IndexLinkSet.flixl" />
+    <Url
+      Source="Advanced/Relationship Tables" />
+    <Url
+      Source="Advanced/Relationship Tables/RelationshipTable.flrtb" />
+    <Url
+      Source="Advanced/Search Filters" />
+    <Url
+      Source="Advanced/Search Filters/SearchFilter.flsfs" />
+    <Url
+      Source="Advanced/Synonyms" />
+    <Url
+      Source="Advanced/Synonyms/Synonyms.mcsyns" />
+    <Url
+      Source="ConditionTagSets" />
+    <Url
+      Source="ConditionTagSets/Default.flcts" />
+    <Url
+      Source="Destinations" />
+    <Url
+      Source="Destinations/Destination.fldes" />
+    <Url
+      Source="Exports" />
+    <Url
+      Source="Exports/capture2_v10.flexp" />
+    <Url
+      Source="Exports/CaptureIntegration.flexp" />
+    <Url
+      Source="Glossaries" />
+    <Url
+      Source="Glossaries/Glossary.flglo" />
+    <Url
+      Source="Imports" />
+    <Url
+      Source="Reports" />
+    <Url
+      Source="Reports/Critical Issues Report.flrep" />
+    <Url
+      Source="Reports/Empty Report.flrep" />
+    <Url
+      Source="Reports/Unused Items Report.flrep" />
+    <Url
+      Source="Skins" />
+    <Url
+      Source="Skins/Default.flskn" />
+    <Url
+      Source="Skins/HTML5 - Top Navigation.flskn" />
+    <Url
+      Source="Skins/HTML5 - Tripane.flskn" />
+    <Url
+      Source="Skins/NewSkin.flskn" />
+    <Url
+      Source="Targets" />
+    <Url
+      Source="Targets/aBatch.flbat" />
+    <Url
+      Source="Targets/CHM.fltar" />
+    <Url
+      Source="Targets/DITA.fltar" />
+    <Url
+      Source="Targets/dotNET.fltar" />
+    <Url
+      Source="Targets/Eclipse.fltar" />
+    <Url
+      Source="Targets/EPUB.fltar" />
+    <Url
+      Source="Targets/Frame.fltar" />
+    <Url
+      Source="Targets/H5 tri.fltar" />
+    <Url
+      Source="Targets/HTML5.fltar" />
+    <Url
+      Source="Targets/PDF.fltar" />
+    <Url
+      Source="Targets/WH.fltar" />
+    <Url
+      Source="Targets/whAIR.fltar" />
+    <Url
+      Source="Targets/whMob.fltar" />
+    <Url
+      Source="Targets/whPLUS.fltar" />
+    <Url
+      Source="Targets/Word.fltar" />
+    <Url
+      Source="Targets/XHTML.fltar" />
+    <Url
+      Source="Targets/XPS.fltar" />
+    <Url
+      Source="TOCs" />
+    <Url
+      Source="TOCs/Master.fltoc" />
+    <Url
+      Source="VariableSets" />
+    <Url
+      Source="VariableSets/Variables.flvar" />
+  </SelectedProjectFiles>
+</CatapultExportProjectFile>
