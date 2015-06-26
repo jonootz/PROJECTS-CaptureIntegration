@@ -1,0 +1,182 @@
+/*<meta sourceDocument="C:\Users\jharkins\Documents\Framemaker\CaptureIntegrationTestResults\Capture Integration Testing.fm" />*/
+
+p.Body
+{
+	text-align: left;
+	margin-left: 0in;
+	margin-right: 0in;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-family: 'Times New Roman';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 12pt;
+	letter-spacing: 0em;
+	color: #000000;
+	text-indent: 0px;
+	line-height: 14pt;
+	text-decoration: none;
+}
+
+p.Title
+{
+	text-align: center;
+	margin-left: 0in;
+	margin-right: 0in;
+	margin-top: 24pt;
+	margin-bottom: 12pt;
+	font-family: 'Times New Roman';
+	font-weight: bold;
+	font-style: normal;
+	font-size: 18pt;
+	letter-spacing: 0em;
+	color: #000000;
+	mc-hyphenate: never;
+	text-indent: 0px;
+	line-height: 24pt;
+	text-decoration: none;
+}
+
+p.Good
+{
+	text-align: left;
+	margin-left: 0in;
+	margin-right: 0in;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-family: 'Times New Roman';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 12pt;
+	letter-spacing: 0em;
+	color: #00ff00;
+	text-indent: 0px;
+	line-height: 14pt;
+	text-decoration: none;
+}
+
+p.Bad
+{
+	text-align: left;
+	margin-left: 0in;
+	margin-right: 0in;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-family: 'Times New Roman';
+	font-weight: bold;
+	font-style: normal;
+	font-size: 12pt;
+	letter-spacing: 0em;
+	color: #ff0000;
+	text-indent: 0px;
+	line-height: 14pt;
+	text-decoration: none;
+}
+
+p.Questionable
+{
+	text-align: left;
+	margin-left: 0in;
+	margin-right: 0in;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-family: 'Times New Roman';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 12pt;
+	letter-spacing: 0em;
+	color: #ff6d3d;
+	text-indent: 0px;
+	line-height: 14pt;
+	text-decoration: none;
+}
+
+h2.Heading2
+{
+	text-align: left;
+	margin-left: 0in;
+	margin-right: 0in;
+	margin-top: 12pt;
+	margin-bottom: 3pt;
+	font-family: 'Times New Roman';
+	font-weight: bold;
+	font-style: normal;
+	font-size: 12pt;
+	letter-spacing: 0em;
+	color: #000000;
+	text-indent: 0px;
+	line-height: 14pt;
+	text-decoration: none;
+}
+
+p.CellHeading
+{
+	text-align: center;
+	margin-left: 0in;
+	margin-right: 0in;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-family: 'Times New Roman';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 12pt;
+	letter-spacing: 0em;
+	color: #000000;
+	mc-hyphenate: never;
+	text-indent: 0px;
+	line-height: 14pt;
+	text-decoration: none;
+}
+
+p.CellBody
+{
+	text-align: left;
+	margin-left: 0in;
+	margin-right: 0in;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-family: 'Times New Roman';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 12pt;
+	letter-spacing: 0em;
+	color: #000000;
+	text-indent: 0px;
+	line-height: 14pt;
+	text-decoration: none;
+}
+
+span.questionable
+{
+	font-family: 'Times New Roman';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 12pt;
+	letter-spacing: 0em;
+	color: #ff6d3d;
+	line-height: 14pt;
+	text-decoration: none;
+}
+
+p.TableTitle
+{
+	text-align: center;
+	margin-left: 0in;
+	margin-right: 0in;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-family: 'Times New Roman';
+	font-weight: bold;
+	font-style: normal;
+	font-size: 12pt;
+	letter-spacing: 0em;
+	color: #000000;
+	mc-hyphenate: never;
+	mc-auto-number-format: 'T:Table {n+}: ';
+	mc-auto-number-position: inside-head;
+	mc-auto-number-offset: 0px;
+	text-indent: 0px;
+	line-height: 14pt;
+	text-decoration: none;
+}
+

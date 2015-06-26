@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProjectImport
+  AutoSync="true"
+  IncludeLinkedFiles="true"
+  LastImport="2015-06-26T15:07:43.5255343-07:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/NewProject1.flprj"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/NewProject1.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../Images/Content/bmp.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/bmp.htm" />
+    <Url
+      Source="../../../Images/Content/dib_cur.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/dib_cur.htm" />
+    <Url
+      Source="../../../Images/Content/emf.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/emf.htm" />
+    <Url
+      Source="../../../Images/Content/eps.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/eps.htm" />
+    <Url
+      Source="../../../Images/Content/exps.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/exps.htm" />
+    <Url
+      Source="../../../Images/Content/gif.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/gif.htm" />
+    <Url
+      Source="../../../Images/Content/hdp.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/hdp.htm" />
+    <Url
+      Source="../../../Images/Content/jpg.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/jpg.htm" />
+    <Url
+      Source="../../../Images/Content/png.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/png.htm" />
+    <Url
+      Source="../../../Images/Content/ps.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/ps.htm" />
+    <Url
+      Source="../../../Images/Content/svg.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/svg.htm" />
+    <Url
+      Source="../../../Images/Content/swf.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/swf.htm" />
+    <Url
+      Source="../../../Images/Content/tif.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/tif.htm" />
+    <Url
+      Source="../../../Images/Content/wdp.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/wdp.htm" />
+    <Url
+      Source="../../../Images/Content/wmf.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/wmf.htm" />
+    <Url
+      Source="../../../Images/Content/xaml.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/xaml.htm" />
+    <Url
+      Source="../../../Images/Content/xps.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/xps.htm" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/bmp.bmp"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/bmp.bmp" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/emf.emf"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/emf.emf" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/MadCapLogos.emf"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/MadCapLogos.emf" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/eps.eps"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/eps.eps" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/foo.exps"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/foo.exps" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/Animated Gif.gif"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/Animated Gif.gif" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/gif.gif"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/gif.gif" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/054.hdp"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/054.hdp" />
+    <Url
+      Source="../../../Images/Content/atlanta.jpe"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/atlanta.jpe" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/AA1.jpeg"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/AA1.jpeg" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/jpeg.jpg"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/jpeg.jpg" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/mad_cow150x160.jpg"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/mad_cow150x160.jpg" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/Image that appears small in image view but regular in WYS.jpg"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/Image that appears small in image view but regular in WYS.jpg" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/8-bit png.png"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/8-bit png.png" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/16 Color.png"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/16 Color.png" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/16-bit png.png"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/16-bit png.png" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/32-bit png.png"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/32-bit png.png" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/256 Color.png"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/256 Color.png" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/ps.ps"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/ps.ps" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/svg.svg"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/svg.svg" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/fight3.swf"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/fight3.swf" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/TIF - LZW Compression.tif"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/TIF - LZW Compression.tif" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/Tif - Not LZW.tif"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/Tif - Not LZW.tif" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/AA1.tiff"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/AA1.tiff" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/IMG_1956.wdp"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/IMG_1956.wdp" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/wmf.wmf"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/wmf.wmf" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/Good.xaml"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/Good.xaml" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/Scene.xaml"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/Scene.xaml" />
+    <Url
+      Source="../../../Images/Content/Resources/Images/MyXPS.xps"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Images/MyXPS.xps" />
+    <Url
+      Source="../../../Images/Content/Topic.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Topic.htm" />
+    <Url
+      Source="../../../Images/Content/Resources/Stylesheets/Styles.css"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Stylesheets/Styles.css" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles>
+    <Url
+      Source="../../../Images/Content/Topic.htm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Topic.htm" />
+    <Url
+      Source="../../../Images/Content/Resources/Stylesheets/Styles.css"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Images/Content/Resources/Stylesheets/Styles.css" />
+  </SkippedSourceFiles>
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/bmp.htm"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/dib_cur.htm"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/emf.htm"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/eps.htm"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/exps.htm"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/gif.htm"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/hdp.htm"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/jpg.htm"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/png.htm"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/ps.htm"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/svg.htm"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/swf.htm"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/tif.htm"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/wdp.htm"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/wmf.htm"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/xaml.htm"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/xps.htm"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/bmp.bmp"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/emf.emf"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/MadCapLogos.emf"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/eps.eps"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/foo.exps"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Animated Gif.gif"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/gif.gif"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/054.hdp"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/atlanta.jpe"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/AA1.jpeg"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/jpeg.jpg"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/mad_cow150x160.jpg"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Image that appears small in image view but regular in WYS.jpg"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8-bit png.png"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/16 Color.png"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/16-bit png.png"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/32-bit png.png"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/256 Color.png"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/ps.ps"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/svg.svg"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/fight3.swf"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/TIF - LZW Compression.tif"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tif - Not LZW.tif"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/AA1.tiff"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/IMG_1956.wdp"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/wmf.wmf"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Good.xaml"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Scene.xaml"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/MyXPS.xps"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Topic.htm"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Styles.css"
+      TimeStamp="6/26/2015 12:32:08 PM" />
+  </GeneratedFiles>
+</CatapultProjectImport>

@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FrameMakerImport
+  AnchoredFrameHandling="flattened"
+  PreserveImageSize="true"
+  CreateTableStyleForTables="true"
+  ReimportTableStyles="true"
+  PreserveSourceStyles="true"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  ConvertMathFullFormToMathML="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  LastCollectTime="2015-06-26T15:14:28.2381328-07:00"
+  ProjectName="CaptureIntegration"
+  ProjectFolder="C:\Users\jharkins\Documents\MySAVEDProjects\CaptureIntegrationNEWER\"
+  AutoSync="false"
+  EnablePassthroughMarkers="true"
+  PassthroughMarkerMethod="text"
+  LastImport="2015-06-26T15:14:32.1401500-07:00">
+  <Files>
+    <Url
+      Source="../../../../Framemaker/CaptureIntegrationTestResults/Capture Integration Testing.fm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/Framemaker/CaptureIntegrationTestResults/Capture Integration Testing.fm" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../../Framemaker/CaptureIntegrationTestResults/Capture Integration Testing.fm"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/Framemaker/CaptureIntegrationTestResults/Capture Integration Testing.fm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Capture Integration Testing/1_7.dib"
+      TimeStamp="6/26/2015 3:14:28 PM" />
+    <Url
+      Source="../../Content/Capture Integration Testing/1_5.jpg"
+      TimeStamp="6/26/2015 3:14:28 PM" />
+    <Url
+      Source="../../Content/Capture Integration Testing/1_6.jpg"
+      TimeStamp="6/26/2015 3:14:28 PM" />
+    <Url
+      Source="../../Content/Capture Integration Testing/1_4.dib"
+      TimeStamp="6/26/2015 3:14:28 PM" />
+    <Url
+      Source="../../Content/Capture Integration Testing/1_3.dib"
+      TimeStamp="6/26/2015 3:14:28 PM" />
+    <Url
+      Source="../../Content/Capture Integration Testing/1_2.dib"
+      TimeStamp="6/26/2015 3:14:28 PM" />
+    <Url
+      Source="../../Content/Capture Integration Testing/1_1.dib"
+      TimeStamp="6/26/2015 3:14:28 PM" />
+    <Url
+      Source="../../Content/Resources/TableStyles/Format_A.css"
+      TimeStamp="6/26/2015 3:14:28 PM" />
+    <Url
+      Source="../../Content/Capture Integration Testing/Capture Integration Testing.htm"
+      TimeStamp="6/26/2015 3:14:28 PM" />
+    <Url
+      Source="../../Content/Resources/PageLayouts/Capture Integration Testing/LeftRightPageLayout.flpgl"
+      TimeStamp="6/26/2015 3:14:28 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Capture Integration Testing.css"
+      TimeStamp="6/26/2015 3:14:28 PM" />
+    <Url
+      Source="../ConditionTagSets/Capture Integration Testing.flcts"
+      TimeStamp="6/26/2015 3:14:28 PM" />
+    <Url
+      Source="../TOCs/Capture Integration Testing.fltoc"
+      TimeStamp="6/26/2015 3:14:28 PM" />
+  </GeneratedFiles>
+  <ImportStyles>
+    <Styles>
+      <Style
+        Name="Paragraph">
+        <Classes>
+          <StyleClass
+            Name="Body" />
+          <StyleClass
+            Name="Title" />
+          <StyleClass
+            Name="Good" />
+          <StyleClass
+            Name="Bad" />
+          <StyleClass
+            Name="Questionable" />
+          <StyleClass
+            Name="Heading2" />
+        </Classes>
+      </Style>
+      <Style
+        Name="Table">
+        <Classes>
+          <StyleClass
+            Name="Format A" />
+        </Classes>
+      </Style>
+    </Styles>
+  </ImportStyles>
+  <ParagraphStyles>
+    <Map
+      From="Heading1"
+      To="h1.(FrameMaker Style)" />
+    <Map
+      From="Heading2"
+      To="h2.(FrameMaker Style)" />
+    <Map
+      From="Heading3"
+      To="h3.(FrameMaker Style)" />
+    <Map
+      From="Heading4"
+      To="h4.(FrameMaker Style)" />
+    <Map
+      From="Heading5"
+      To="h5.(FrameMaker Style)" />
+    <Map
+      From="Heading6"
+      To="h6.(FrameMaker Style)" />
+  </ParagraphStyles>
+  <CharacterStyles />
+  <XRefStyles />
+  <NewTopicStyles />
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Body" />
+    <StyleName
+      Name="Title" />
+    <StyleName
+      Name="Good" />
+    <StyleName
+      Name="Bad" />
+    <StyleName
+      Name="Questionable" />
+    <StyleName
+      Name="Heading2" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+  <UsedXRefStyles />
+  <UsedTableStyles>
+    <StyleName
+      Name="Format A" />
+  </UsedTableStyles>
+  <CharacterStyleDefinitions />
+  <ParagraphStyleDefinitions>
+    <Style
+      Name="Body"
+      style="text-align: left; margin-left: 0in; margin-right: 0in; margin-top: 0pt; margin-bottom: 0pt; font-family: 'Times New Roman'; font-weight: normal; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #000000; text-indent: 0px; line-height: 14pt; text-decoration: none;" />
+    <Style
+      Name="Title"
+      style="text-align: center; margin-left: 0in; margin-right: 0in; margin-top: 24pt; margin-bottom: 12pt; font-family: 'Times New Roman'; font-weight: bold; font-style: normal; font-size: 18pt; letter-spacing: 0em; color: #000000; mc-hyphenate: never; text-indent: 0px; line-height: 24pt; text-decoration: none;" />
+    <Style
+      Name="Good"
+      style="text-align: left; margin-left: 0in; margin-right: 0in; margin-top: 0pt; margin-bottom: 0pt; font-family: 'Times New Roman'; font-weight: normal; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #00ff00; text-indent: 0px; line-height: 14pt; text-decoration: none;" />
+    <Style
+      Name="Bad"
+      style="text-align: left; margin-left: 0in; margin-right: 0in; margin-top: 0pt; margin-bottom: 0pt; font-family: 'Times New Roman'; font-weight: bold; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #ff0000; text-indent: 0px; line-height: 14pt; text-decoration: none;" />
+    <Style
+      Name="Questionable"
+      style="text-align: left; margin-left: 0in; margin-right: 0in; margin-top: 0pt; margin-bottom: 0pt; font-family: 'Times New Roman'; font-weight: normal; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #ff6d3d; text-indent: 0px; line-height: 14pt; text-decoration: none;" />
+    <Style
+      Name="Heading2"
+      style="text-align: left; margin-left: 0in; margin-right: 0in; margin-top: 12pt; margin-bottom: 3pt; font-family: 'Times New Roman'; font-weight: bold; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #000000; text-indent: 0px; line-height: 14pt; text-decoration: none;" />
+  </ParagraphStyleDefinitions>
+  <XRefStyleDefinitions />
+  <TableStyleDefinitions>
+    <Style
+      Name="Format\000020A"
+      style="" />
+  </TableStyleDefinitions>
+</FrameMakerImport>
