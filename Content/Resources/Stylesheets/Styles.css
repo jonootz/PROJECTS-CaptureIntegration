@@ -3,13 +3,13 @@
 body
 {
 	font-family: Arial;
-	background-color: #dcdcdc;
 }
 
 h1
 {
 	font-weight: bold;
 	font-size: 24.0pt;
+	background-image: none;
 }
 
 h2
@@ -87,77 +87,5 @@ MadCap|dropDownHotspot
 	font-style: italic;
 	text-decoration: none;
 	color: #006600;
-}
-
-@media Customm
-{
-	body
-	{
-		background-color: #ffebcd;
-	}
-}
-
-@media screen and (max-width: 600px)
-{
-	body
-	{
-		background-color: red;
-	}
-}
-
-p.Hwork
-{
-	font-size: 12.0pt;
-	margin-top: 0pt;
-	margin-bottom: 0pt;
-	font-family: 'Times New Roman';
-	line-height: 24pt;
-}
-
-ol.Outlining
-{
-	list-style-type: upper-roman;
-}
-
-ol.Outlining > li > ol
-{
-	list-style-type: lower-alpha;
-}
-
-ol.Outlining > li > ol > li > ol
-{
-	list-style-type: lower-roman;
-}
-
-body.white
-{
-	font-family: Arial;
-	background-color: #ffffff;
-}
-
-h3.Capturetest	/*Description/label for what is being tested*/
-{
-	font-weight: bold;
-	font-size: 14.0pt;
-	color: #000080;
-	font-family: 'Copperplate Gothic Bold';
-	text-align: center;
-}
-
-h1.H1designed
-{
-	font-weight: bold;
-	font-size: 24.0pt;
-	color: #696969;
-	font-family: 'Copperplate Gothic Bold';
-}
-
-h2.H2designed
-{
-	font-weight: bold;
-	font-size: 18.0pt;
-	background-color: #a9a9a9;
-	color: #b8860b;
-	font-family: 'Copperplate Gothic Bold';
 }
 

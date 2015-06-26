@@ -2,6 +2,69 @@
 <CatapultToc
   Version="1">
   <TocEntry
+    Title="Auto Size Capture Callout to fit text"
+    Link="/Content/Batman/autoadjust.htm" />
+  <TocEntry
+    Title="Batman Stuff"
+    Link="/Content/Batman/Batman.htm" />
+  <TocEntry
+    Title="Topic Title"
+    Link="/Content/Topic.htm" />
+  <TocEntry
+    Title="All Image Types">
+    <TocEntry
+      Title="bmp"
+      Link="/Content/All Image Types/bmp.htm" />
+    <TocEntry
+      Title="New Topic"
+      Link="/Content/All Image Types/dib_cur.htm" />
+    <TocEntry
+      Title="emf"
+      Link="/Content/All Image Types/emf.htm" />
+    <TocEntry
+      Title="eps"
+      Link="/Content/All Image Types/eps.htm" />
+    <TocEntry
+      Title="exps"
+      Link="/Content/All Image Types/exps.htm" />
+    <TocEntry
+      Title="gif"
+      Link="/Content/All Image Types/gif.htm" />
+    <TocEntry
+      Title="hdp"
+      Link="/Content/All Image Types/hdp.htm" />
+    <TocEntry
+      Title="jpg"
+      Link="/Content/All Image Types/jpg.htm" />
+    <TocEntry
+      Title="png"
+      Link="/Content/All Image Types/png.htm" />
+    <TocEntry
+      Title="ps"
+      Link="/Content/All Image Types/ps.htm" />
+    <TocEntry
+      Title="svg"
+      Link="/Content/All Image Types/svg.htm" />
+    <TocEntry
+      Title="swf"
+      Link="/Content/All Image Types/swf.htm" />
+    <TocEntry
+      Title="tif"
+      Link="/Content/All Image Types/tif.htm" />
+    <TocEntry
+      Title="wdp"
+      Link="/Content/All Image Types/wdp.htm" />
+    <TocEntry
+      Title="wmf"
+      Link="/Content/All Image Types/wmf.htm" />
+    <TocEntry
+      Title="xaml"
+      Link="/Content/All Image Types/xaml.htm" />
+    <TocEntry
+      Title="xps"
+      Link="/Content/All Image Types/xps.htm" />
+  </TocEntry>
+  <TocEntry
     Title="Copy of DailyCaptures"
     Link="/Content/Copy of DailyCaptures.htm" />
   <TocEntry
@@ -31,7 +94,4 @@
   <TocEntry
     Title="PrintPNGS"
     Link="/Content/PrintPNGS.htm" />
-  <TocEntry
-    Title="Topic Title"
-    Link="/Content/Topic.htm" />
 </CatapultToc>
