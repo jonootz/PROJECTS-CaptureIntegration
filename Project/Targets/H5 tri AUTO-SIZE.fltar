@@ -7,7 +7,9 @@
   GlossaryTermConversion="marked"
   Skin="/Project/Skins/HTML5 - Tripane.flskn"
   MasterToc="/Project/TOCs/Master.fltoc"
-  AutoSizeCaptureCaptions="true">
+  AutoSizeCaptureCaptions="true"
+  GenerateWebSafeImages="true"
+  WebSafeFileExtension="png">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
