@@ -7,6 +7,7 @@
             <Shape Type="Annotation" X="88" Y="5" Width="261" Height="588" ShapeTimeSpan="10000" TipX="546" TipY="362" Right="156" Bottom="40" Left="149" Top="-25" LineColor="#ffffff" />
             <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" BackgroundColor="#ffffff" X="551" Y="351" Width="50" Height="33" ShapeTimeSpan="10000" Right="-45" Bottom="249" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Black">6 Feet</Shape>
             <Shape Type="Polyline" Coordinates="25,634,459,633" LineSymbol="Wave" LineSymbolWidth="80" LineSymbolHeight="20" LineStyleName="Wave Line" ShapeTimeSpan="10000" LineColor="#b8860b" />
+            <Shape Type="Annotation" X="93" Y="10" Width="261" Height="588" ShapeTimeSpan="10000" TipX="551" TipY="367" Right="156" Bottom="40" Left="149" Top="-25" LineColor="#ffff00" FontFamily="Arial" FontSize="12pt" FontWeight="normal" FontStyle="normal" Underline="false" Color="#ffff00">has text</Shape>
         </Shapes>
         <Shapes IsResourceLayer="true" Name="Resources" />
         <ConditionTagSet />
