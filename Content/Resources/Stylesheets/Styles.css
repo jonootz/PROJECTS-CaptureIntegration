@@ -97,3 +97,11 @@ MadCap|dropDownHotspot
 	}
 }
 
+img.thumb
+{
+	border: none;
+	width: 461px;
+	height: 408px;
+	mc-thumbnail: popup;
+}
+
