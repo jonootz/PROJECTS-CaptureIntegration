@@ -6,7 +6,11 @@
     Link="/Content/Batman/autoadjust.htm" />
   <TocEntry
     Title="Batman Stuff"
-    Link="/Content/Batman/Batman.htm" />
+    Link="/Content/Batman/Batman.htm">
+    <TocEntry
+      Title="Batman Thumbs"
+      Link="/Content/Batman/Batman THUMBS.htm" />
+  </TocEntry>
   <TocEntry
     Title="Topic Title"
     Link="/Content/Topic.htm" />
