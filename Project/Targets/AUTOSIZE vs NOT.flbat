@@ -8,118 +8,132 @@
       Name="AUTOSIZE"
       Type="HTML5"
       Build="false"
-      LastBuilt="6/24/2015 3:47:20 PM"
+      LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="AUTOSIZE NOT"
       Type="HTML5"
       Build="false"
-      LastBuilt="6/25/2015 11:01:16 AM"
+      LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="CHM"
       Type="HTML Help"
-      LastBuilt="6/24/2015 3:10:40 PM"
+      LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="DITA"
       Type="DITA"
-      LastBuilt="6/24/2015 3:10:20 PM"
+      LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="dotNET"
       Type="DotNet Help"
-      LastBuilt="6/24/2015 3:10:33 PM"
+      LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="Eclipse"
       Type="Eclipse Help"
-      LastBuilt="6/24/2015 3:10:47 PM"
+      LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="EPUB"
       Type="EPUB"
-      LastBuilt="6/24/2015 3:10:59 PM"
+      LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="Frame"
       Type="FrameMaker"
-      LastBuilt="6/24/2015 3:11:03 PM"
+      LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="H5 tri"
       Type="HTML5"
       Build="true"
-      LastBuilt="6/25/2015 12:10:48 PM"
+      LastBuilt="6/30/2015 9:36:18 AM"
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="H5 tri AUTO-SIZE"
       Type="HTML5"
       Build="true"
-      LastBuilt="6/25/2015 12:10:51 PM"
+      LastBuilt="6/30/2015 9:36:18 AM"
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="H5 tri AUTO-SIZE PNG"
+      Type="HTML5"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="H5 tri PNG"
+      Type="HTML5"
+      Build="true"
+      LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="HTML5"
       Type="HTML5"
-      LastBuilt="6/24/2015 3:35:29 PM"
+      LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="PDF"
       Type="PDF"
-      LastBuilt="6/24/2015 3:11:38 PM"
+      LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="WH"
       Type="WebHelp"
-      LastBuilt="6/24/2015 3:11:32 PM"
+      LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="whAIR"
       Type="WebHelp AIR"
-      LastBuilt="6/24/2015 3:11:47 PM"
+      LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="whMob"
       Type="WebHelp Mobile"
-      LastBuilt="6/24/2015 3:11:52 PM"
+      LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="whPLUS"
       Type="WebHelp Plus"
-      LastBuilt="6/24/2015 3:12:08 PM"
+      LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="Word"
       Type="Word"
-      LastBuilt="6/24/2015 3:12:21 PM"
+      LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="XHTML"
       Type="XHTML Book"
-      LastBuilt="6/24/2015 3:12:20 PM"
+      LastBuilt=""
       LastPublished="" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="XPS"
       Type="XPS"
-      LastBuilt="6/24/2015 3:12:34 PM"
+      LastBuilt=""
       LastPublished="" />
   </Targets>
 </CatapultBatchTarget>

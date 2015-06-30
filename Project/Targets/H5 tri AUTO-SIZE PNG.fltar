@@ -8,7 +8,7 @@
   Skin="/Project/Skins/HTML5 - Tripane.flskn"
   MasterToc="/Project/TOCs/Master.fltoc"
   AutoSizeCaptureCaptions="true"
-  GenerateWebSafeImages="false"
+  GenerateWebSafeImages="true"
   WebSafeFileExtension="png">
   <PrintedOutput
     CollapseMargins="true"
